@@ -1,16 +1,15 @@
-# Anotações feitas durante as aulas de Introdução ao Git/GitHub :pencil:
+# Anotações feitas durante as aulas de Introdução ao Git/GitHub:pencil:
+
+
+*Olá, bem-vindos as anotações de um Dev iniciando sua carreira dentro do desenvolvimento Full Stack! :wave:*
+
+*Dentro dessas anotações, trago de forma resumida pontos que considerei essenciais para entender como o Git e o GitHub funcionam e as aplicações básicas que aprendi!*
 
 
 
-</P>_Olá, bem-vindos as anotações de um Dev iniciando sua carreira dentro do desenvolvimento Full Stack! :wave:_<p>
+### <p>Pontos essenciais vistos durante o curso:</p>
 
-</p>_Dentro dessas anotações, trago de forma resumida pontos que considerei essenciais para entender como o Git e o GitHub funcionam e as aplicações básicas que aprendi!<p>_
-
-
-
-#### <p>Pontos essenciais vistos durante o curso:</p>
-
-###### O que é Git:
+#### O que é Git:
 
 </p>De forma resumida, Git é um sistema utilizado para o versionamento de códigos, esse sistema é responsável pelo controle de versões distribuídas de um código que pode estar armazenado em nuvem ou em um armazenamento local.<p>
 
@@ -18,7 +17,7 @@
 
 
 
-###### Entendendo como o Git funciona por baixo dos panos:
+#### Entendendo como o Git funciona por baixo dos panos:
 
 **1. SHA-1**
 
